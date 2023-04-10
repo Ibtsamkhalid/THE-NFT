@@ -1,0 +1,7 @@
+.trending-card{
+    flex-direction: column;
+}
+
+.tc-inner-wrapper{
+    background-color: var(--text-gradient);
+}
